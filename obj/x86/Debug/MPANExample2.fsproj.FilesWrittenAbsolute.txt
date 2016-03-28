@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/MPANExample2/MPANExample2/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/MPANExample2/MPANExample2/bin/Debug/MPANExample2.exe.mdb
+/home/jacqueline/Projects/MPANExample2/MPANExample2/bin/Debug/MPANExample2.exe
+/home/jacqueline/Projects/MPANExample2/MPANExample2/obj/x86/Debug/MPANExample2.exe
+/home/jacqueline/Projects/MPANExample2/MPANExample2/obj/x86/Debug/MPANExample2.exe.mdb
